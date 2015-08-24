@@ -1,8 +1,9 @@
 about minimalist_blog
 ========
-straight-up the sleekest sexiest minimalist blog you will ever see (not that i'm biased) 
+straight-up the sleekest sexiest minimalist blog you will ever see (not that i'm biased)
+
 coded in jekyll, SCSS, and Markdown 
-<br>
+
 
 ---
 
