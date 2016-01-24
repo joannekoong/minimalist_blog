@@ -1,6 +1,6 @@
 about minimalist_blog
 ========
-straight-up the sleekest sexiest minimalist blog you will ever see (not that i'm biased)
+straight-up the sleekest sexiest minimalist blog you will ever see (not that i'm biased). 
 
 coded in jekyll, SCSS, and Markdown 
 
@@ -18,11 +18,16 @@ coded in jekyll, SCSS, and Markdown
 
 ### you be you
 
-1. Change the `_config.yml` to your info
-2. Change about.md to display static about page with your info
+1. Change the `_config.yml` to your information
+2. Change about.md to display your static about page
 3. Write posts using the format in _posts example posts. Be sure to make your file 'year-month-date-title-of-post.md' 
 3. If you want to upload your blog onto a domain, see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages) to fiddle with settings.
 
 ---
 
+### screenshots
+
+![category](https://github.com/joannekoong/minimalist_blog/blob/master/entry.png)
+![category](https://github.com/joannekoong/minimalist_blog/blob/master/home.png)
+![category](https://github.com/joannekoong/minimalist_blog/blob/master/categories.png/)
 
